@@ -1,0 +1,5 @@
+age_bucket,risk_level,break_count,total_break_value
+0-30 days,LOW,156,82942540.67
+31-60 days,MEDIUM,114,83710076.53
+61-90 days,HIGH,73,76634022.17
+>90 days,CRITICAL,11,20488300.83

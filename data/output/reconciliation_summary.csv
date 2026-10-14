@@ -1,0 +1,2 @@
+valuation_date,total_internal_records,total_external_records,total_records_reconciled,auto_matched_pairs,auto_match_rate_pct,total_exception_count,gross_break_value_usd,amount_tolerance,date_tolerance_days,manual_hours_saved_pct
+2024-09-30,4870,4825,9695,4633,95.13,354,263774940.2,0.05,2,85.0

@@ -1,0 +1,3597 @@
+[
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004502",
+    "external_id": "EXT_STMT_004502",
+    "reference_key": "REF_TIMING_004502",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004503",
+    "external_id": "EXT_STMT_004503",
+    "reference_key": "REF_TIMING_004503",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004504",
+    "external_id": "EXT_STMT_004504",
+    "reference_key": "REF_TIMING_004504",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004505",
+    "external_id": "EXT_STMT_004505",
+    "reference_key": "REF_TIMING_004505",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004506",
+    "external_id": "EXT_STMT_004506",
+    "reference_key": "REF_TIMING_004506",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004507",
+    "external_id": "EXT_STMT_004507",
+    "reference_key": "REF_TIMING_004507",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004508",
+    "external_id": "EXT_STMT_004508",
+    "reference_key": "REF_TIMING_004508",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004509",
+    "external_id": "EXT_STMT_004509",
+    "reference_key": "REF_TIMING_004509",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004510",
+    "external_id": "EXT_STMT_004510",
+    "reference_key": "REF_TIMING_004510",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004511",
+    "external_id": "EXT_STMT_004511",
+    "reference_key": "REF_TIMING_004511",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004512",
+    "external_id": "EXT_STMT_004512",
+    "reference_key": "REF_TIMING_004512",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004513",
+    "external_id": "EXT_STMT_004513",
+    "reference_key": "REF_TIMING_004513",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004514",
+    "external_id": "EXT_STMT_004514",
+    "reference_key": "REF_TIMING_004514",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004515",
+    "external_id": "EXT_STMT_004515",
+    "reference_key": "REF_TIMING_004515",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004516",
+    "external_id": "EXT_STMT_004516",
+    "reference_key": "REF_TIMING_004516",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004517",
+    "external_id": "EXT_STMT_004517",
+    "reference_key": "REF_TIMING_004517",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004518",
+    "external_id": "EXT_STMT_004518",
+    "reference_key": "REF_TIMING_004518",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004519",
+    "external_id": "EXT_STMT_004519",
+    "reference_key": "REF_TIMING_004519",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004520",
+    "external_id": "EXT_STMT_004520",
+    "reference_key": "REF_TIMING_004520",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004521",
+    "external_id": "EXT_STMT_004521",
+    "reference_key": "REF_TIMING_004521",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004522",
+    "external_id": "EXT_STMT_004522",
+    "reference_key": "REF_TIMING_004522",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004523",
+    "external_id": "EXT_STMT_004523",
+    "reference_key": "REF_TIMING_004523",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004524",
+    "external_id": "EXT_STMT_004524",
+    "reference_key": "REF_TIMING_004524",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004525",
+    "external_id": "EXT_STMT_004525",
+    "reference_key": "REF_TIMING_004525",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004526",
+    "external_id": "EXT_STMT_004526",
+    "reference_key": "REF_TIMING_004526",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004527",
+    "external_id": "EXT_STMT_004527",
+    "reference_key": "REF_TIMING_004527",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004528",
+    "external_id": "EXT_STMT_004528",
+    "reference_key": "REF_TIMING_004528",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004529",
+    "external_id": "EXT_STMT_004529",
+    "reference_key": "REF_TIMING_004529",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004530",
+    "external_id": "EXT_STMT_004530",
+    "reference_key": "REF_TIMING_004530",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004531",
+    "external_id": "EXT_STMT_004531",
+    "reference_key": "REF_TIMING_004531",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004532",
+    "external_id": "EXT_STMT_004532",
+    "reference_key": "REF_TIMING_004532",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004533",
+    "external_id": "EXT_STMT_004533",
+    "reference_key": "REF_TIMING_004533",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004534",
+    "external_id": "EXT_STMT_004534",
+    "reference_key": "REF_TIMING_004534",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004535",
+    "external_id": "EXT_STMT_004535",
+    "reference_key": "REF_TIMING_004535",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004536",
+    "external_id": "EXT_STMT_004536",
+    "reference_key": "REF_TIMING_004536",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004537",
+    "external_id": "EXT_STMT_004537",
+    "reference_key": "REF_TIMING_004537",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004538",
+    "external_id": "EXT_STMT_004538",
+    "reference_key": "REF_TIMING_004538",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004539",
+    "external_id": "EXT_STMT_004539",
+    "reference_key": "REF_TIMING_004539",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004540",
+    "external_id": "EXT_STMT_004540",
+    "reference_key": "REF_TIMING_004540",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004541",
+    "external_id": "EXT_STMT_004541",
+    "reference_key": "REF_TIMING_004541",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004542",
+    "external_id": "EXT_STMT_004542",
+    "reference_key": "REF_TIMING_004542",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004543",
+    "external_id": "EXT_STMT_004543",
+    "reference_key": "REF_TIMING_004543",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004544",
+    "external_id": "EXT_STMT_004544",
+    "reference_key": "REF_TIMING_004544",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004545",
+    "external_id": "EXT_STMT_004545",
+    "reference_key": "REF_TIMING_004545",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004546",
+    "external_id": "EXT_STMT_004546",
+    "reference_key": "REF_TIMING_004546",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004547",
+    "external_id": "EXT_STMT_004547",
+    "reference_key": "REF_TIMING_004547",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004548",
+    "external_id": "EXT_STMT_004548",
+    "reference_key": "REF_TIMING_004548",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004549",
+    "external_id": "EXT_STMT_004549",
+    "reference_key": "REF_TIMING_004549",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004550",
+    "external_id": "EXT_STMT_004550",
+    "reference_key": "REF_TIMING_004550",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004551",
+    "external_id": "EXT_STMT_004551",
+    "reference_key": "REF_TIMING_004551",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004552",
+    "external_id": "EXT_STMT_004552",
+    "reference_key": "REF_TIMING_004552",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004553",
+    "external_id": "EXT_STMT_004553",
+    "reference_key": "REF_TIMING_004553",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004554",
+    "external_id": "EXT_STMT_004554",
+    "reference_key": "REF_TIMING_004554",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004555",
+    "external_id": "EXT_STMT_004555",
+    "reference_key": "REF_TIMING_004555",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004556",
+    "external_id": "EXT_STMT_004556",
+    "reference_key": "REF_TIMING_004556",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004557",
+    "external_id": "EXT_STMT_004557",
+    "reference_key": "REF_TIMING_004557",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004558",
+    "external_id": "EXT_STMT_004558",
+    "reference_key": "REF_TIMING_004558",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004559",
+    "external_id": "EXT_STMT_004559",
+    "reference_key": "REF_TIMING_004559",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004560",
+    "external_id": "EXT_STMT_004560",
+    "reference_key": "REF_TIMING_004560",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004561",
+    "external_id": "EXT_STMT_004561",
+    "reference_key": "REF_TIMING_004561",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004562",
+    "external_id": "EXT_STMT_004562",
+    "reference_key": "REF_TIMING_004562",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004563",
+    "external_id": "EXT_STMT_004563",
+    "reference_key": "REF_TIMING_004563",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004564",
+    "external_id": "EXT_STMT_004564",
+    "reference_key": "REF_TIMING_004564",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004565",
+    "external_id": "EXT_STMT_004565",
+    "reference_key": "REF_TIMING_004565",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004566",
+    "external_id": "EXT_STMT_004566",
+    "reference_key": "REF_TIMING_004566",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004567",
+    "external_id": "EXT_STMT_004567",
+    "reference_key": "REF_TIMING_004567",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004568",
+    "external_id": "EXT_STMT_004568",
+    "reference_key": "REF_TIMING_004568",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004569",
+    "external_id": "EXT_STMT_004569",
+    "reference_key": "REF_TIMING_004569",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004570",
+    "external_id": "EXT_STMT_004570",
+    "reference_key": "REF_TIMING_004570",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004571",
+    "external_id": "EXT_STMT_004571",
+    "reference_key": "REF_TIMING_004571",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004572",
+    "external_id": "EXT_STMT_004572",
+    "reference_key": "REF_TIMING_004572",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004573",
+    "external_id": "EXT_STMT_004573",
+    "reference_key": "REF_TIMING_004573",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004574",
+    "external_id": "EXT_STMT_004574",
+    "reference_key": "REF_TIMING_004574",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004575",
+    "external_id": "EXT_STMT_004575",
+    "reference_key": "REF_TIMING_004575",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004576",
+    "external_id": "EXT_STMT_004576",
+    "reference_key": "REF_TIMING_004576",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004577",
+    "external_id": "EXT_STMT_004577",
+    "reference_key": "REF_TIMING_004577",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004578",
+    "external_id": "EXT_STMT_004578",
+    "reference_key": "REF_TIMING_004578",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004579",
+    "external_id": "EXT_STMT_004579",
+    "reference_key": "REF_TIMING_004579",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004580",
+    "external_id": "EXT_STMT_004580",
+    "reference_key": "REF_TIMING_004580",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004581",
+    "external_id": "EXT_STMT_004581",
+    "reference_key": "REF_TIMING_004581",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004582",
+    "external_id": "EXT_STMT_004582",
+    "reference_key": "REF_TIMING_004582",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004583",
+    "external_id": "EXT_STMT_004583",
+    "reference_key": "REF_TIMING_004583",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004584",
+    "external_id": "EXT_STMT_004584",
+    "reference_key": "REF_TIMING_004584",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004585",
+    "external_id": "EXT_STMT_004585",
+    "reference_key": "REF_TIMING_004585",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004586",
+    "external_id": "EXT_STMT_004586",
+    "reference_key": "REF_TIMING_004586",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004587",
+    "external_id": "EXT_STMT_004587",
+    "reference_key": "REF_TIMING_004587",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004588",
+    "external_id": "EXT_STMT_004588",
+    "reference_key": "REF_TIMING_004588",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004589",
+    "external_id": "EXT_STMT_004589",
+    "reference_key": "REF_TIMING_004589",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004590",
+    "external_id": "EXT_STMT_004590",
+    "reference_key": "REF_TIMING_004590",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004591",
+    "external_id": "EXT_STMT_004591",
+    "reference_key": "REF_TIMING_004591",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004592",
+    "external_id": "EXT_STMT_004592",
+    "reference_key": "REF_TIMING_004592",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004593",
+    "external_id": "EXT_STMT_004593",
+    "reference_key": "REF_TIMING_004593",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004594",
+    "external_id": "EXT_STMT_004594",
+    "reference_key": "REF_TIMING_004594",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004595",
+    "external_id": "EXT_STMT_004595",
+    "reference_key": "REF_TIMING_004595",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004596",
+    "external_id": "EXT_STMT_004596",
+    "reference_key": "REF_TIMING_004596",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004597",
+    "external_id": "EXT_STMT_004597",
+    "reference_key": "REF_TIMING_004597",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004598",
+    "external_id": "EXT_STMT_004598",
+    "reference_key": "REF_TIMING_004598",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004599",
+    "external_id": "EXT_STMT_004599",
+    "reference_key": "REF_TIMING_004599",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004600",
+    "external_id": "EXT_STMT_004600",
+    "reference_key": "REF_TIMING_004600",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004601",
+    "external_id": "EXT_STMT_004601",
+    "reference_key": "REF_TIMING_004601",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004602",
+    "external_id": "EXT_STMT_004602",
+    "reference_key": "REF_TIMING_004602",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004603",
+    "external_id": "EXT_STMT_004603",
+    "reference_key": "REF_TIMING_004603",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004604",
+    "external_id": "EXT_STMT_004604",
+    "reference_key": "REF_TIMING_004604",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004605",
+    "external_id": "EXT_STMT_004605",
+    "reference_key": "REF_TIMING_004605",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004606",
+    "external_id": "EXT_STMT_004606",
+    "reference_key": "REF_TIMING_004606",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004607",
+    "external_id": "EXT_STMT_004607",
+    "reference_key": "REF_TIMING_004607",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004608",
+    "external_id": "EXT_STMT_004608",
+    "reference_key": "REF_TIMING_004608",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004609",
+    "external_id": "EXT_STMT_004609",
+    "reference_key": "REF_TIMING_004609",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004610",
+    "external_id": "EXT_STMT_004610",
+    "reference_key": "REF_TIMING_004610",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004611",
+    "external_id": "EXT_STMT_004611",
+    "reference_key": "REF_TIMING_004611",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004612",
+    "external_id": "EXT_STMT_004612",
+    "reference_key": "REF_TIMING_004612",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004613",
+    "external_id": "EXT_STMT_004613",
+    "reference_key": "REF_TIMING_004613",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004614",
+    "external_id": "EXT_STMT_004614",
+    "reference_key": "REF_TIMING_004614",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004615",
+    "external_id": "EXT_STMT_004615",
+    "reference_key": "REF_TIMING_004615",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004616",
+    "external_id": "EXT_STMT_004616",
+    "reference_key": "REF_TIMING_004616",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004617",
+    "external_id": "EXT_STMT_004617",
+    "reference_key": "REF_TIMING_004617",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004618",
+    "external_id": "EXT_STMT_004618",
+    "reference_key": "REF_TIMING_004618",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004619",
+    "external_id": "EXT_STMT_004619",
+    "reference_key": "REF_TIMING_004619",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004620",
+    "external_id": "EXT_STMT_004620",
+    "reference_key": "REF_TIMING_004620",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004621",
+    "external_id": "EXT_STMT_004621",
+    "reference_key": "REF_TIMING_004621",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004622",
+    "external_id": "EXT_STMT_004622",
+    "reference_key": "REF_TIMING_004622",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004623",
+    "external_id": "EXT_STMT_004623",
+    "reference_key": "REF_TIMING_004623",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004624",
+    "external_id": "EXT_STMT_004624",
+    "reference_key": "REF_TIMING_004624",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004625",
+    "external_id": "EXT_STMT_004625",
+    "reference_key": "REF_TIMING_004625",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004626",
+    "external_id": "EXT_STMT_004626",
+    "reference_key": "REF_TIMING_004626",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004627",
+    "external_id": "EXT_STMT_004627",
+    "reference_key": "REF_TIMING_004627",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004628",
+    "external_id": "EXT_STMT_004628",
+    "reference_key": "REF_TIMING_004628",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004629",
+    "external_id": "EXT_STMT_004629",
+    "reference_key": "REF_TIMING_004629",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004630",
+    "external_id": "EXT_STMT_004630",
+    "reference_key": "REF_TIMING_004630",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004631",
+    "external_id": "EXT_STMT_004631",
+    "reference_key": "REF_TIMING_004631",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004632",
+    "external_id": "EXT_STMT_004632",
+    "reference_key": "REF_TIMING_004632",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004633",
+    "external_id": "EXT_STMT_004633",
+    "reference_key": "REF_TIMING_004633",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004634",
+    "external_id": "EXT_STMT_004634",
+    "reference_key": "REF_TIMING_004634",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004635",
+    "external_id": "EXT_STMT_004635",
+    "reference_key": "REF_TIMING_004635",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004636",
+    "external_id": "EXT_STMT_004636",
+    "reference_key": "REF_TIMING_004636",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004637",
+    "external_id": "EXT_STMT_004637",
+    "reference_key": "REF_TIMING_004637",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004638",
+    "external_id": "EXT_STMT_004638",
+    "reference_key": "REF_TIMING_004638",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004639",
+    "external_id": "EXT_STMT_004639",
+    "reference_key": "REF_TIMING_004639",
+    "variance_amount": 0.0,
+    "timing_lag_days": 1,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004640",
+    "external_id": "EXT_STMT_004640",
+    "reference_key": "REF_TIMING_004640",
+    "variance_amount": 0.0,
+    "timing_lag_days": 3,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "TIMING_DIFFERENCE",
+    "internal_id": "INT_TXN_004641",
+    "external_id": "EXT_STMT_004641",
+    "reference_key": "REF_TIMING_004641",
+    "variance_amount": 0.0,
+    "timing_lag_days": 2,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004642",
+    "reference_key": "REF_UNBOOKED_FEE_004642",
+    "variance_amount": 23062.15,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "52"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004643",
+    "reference_key": "REF_UNBOOKED_FEE_004643",
+    "variance_amount": 19625.09,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "64"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004644",
+    "reference_key": "REF_UNBOOKED_FEE_004644",
+    "variance_amount": 30198.59,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "57"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004645",
+    "reference_key": "REF_UNBOOKED_FEE_004645",
+    "variance_amount": 23369.87,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "84"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004646",
+    "reference_key": "REF_UNBOOKED_FEE_004646",
+    "variance_amount": 14943.94,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "81"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004647",
+    "reference_key": "REF_UNBOOKED_FEE_004647",
+    "variance_amount": 31891.16,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "35"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004648",
+    "reference_key": "REF_UNBOOKED_FEE_004648",
+    "variance_amount": 38244.23,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "28"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004649",
+    "reference_key": "REF_UNBOOKED_FEE_004649",
+    "variance_amount": 25133.45,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "50"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004650",
+    "reference_key": "REF_UNBOOKED_FEE_004650",
+    "variance_amount": 21742.36,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "6"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004651",
+    "reference_key": "REF_UNBOOKED_FEE_004651",
+    "variance_amount": 34436.63,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "50"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004652",
+    "reference_key": "REF_UNBOOKED_FEE_004652",
+    "variance_amount": 38411.31,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "38"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004653",
+    "reference_key": "REF_UNBOOKED_FEE_004653",
+    "variance_amount": 15053.49,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "36"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004654",
+    "reference_key": "REF_UNBOOKED_FEE_004654",
+    "variance_amount": 40237.21,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "51"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004655",
+    "reference_key": "REF_UNBOOKED_FEE_004655",
+    "variance_amount": 34723.79,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "59"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004656",
+    "reference_key": "REF_UNBOOKED_FEE_004656",
+    "variance_amount": 31932.09,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "39"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004657",
+    "reference_key": "REF_UNBOOKED_FEE_004657",
+    "variance_amount": 9710.82,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "30"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004658",
+    "reference_key": "REF_UNBOOKED_FEE_004658",
+    "variance_amount": 35716.49,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "3"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004659",
+    "reference_key": "REF_UNBOOKED_FEE_004659",
+    "variance_amount": 36456.41,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "6"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004660",
+    "reference_key": "REF_UNBOOKED_FEE_004660",
+    "variance_amount": 42676.88,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "60"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004661",
+    "reference_key": "REF_UNBOOKED_FEE_004661",
+    "variance_amount": 20342.54,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "3"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004662",
+    "reference_key": "REF_UNBOOKED_FEE_004662",
+    "variance_amount": 35573.77,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "19"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004663",
+    "reference_key": "REF_UNBOOKED_FEE_004663",
+    "variance_amount": 40579.08,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "77"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004664",
+    "reference_key": "REF_UNBOOKED_FEE_004664",
+    "variance_amount": 43842.79,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "45"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004665",
+    "reference_key": "REF_UNBOOKED_FEE_004665",
+    "variance_amount": 28494.99,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "71"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004666",
+    "reference_key": "REF_UNBOOKED_FEE_004666",
+    "variance_amount": 17835.56,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "69"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004667",
+    "reference_key": "REF_UNBOOKED_FEE_004667",
+    "variance_amount": 33958.63,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004668",
+    "reference_key": "REF_UNBOOKED_FEE_004668",
+    "variance_amount": 41877.98,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "79"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004669",
+    "reference_key": "REF_UNBOOKED_FEE_004669",
+    "variance_amount": 9634.91,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "15"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004670",
+    "reference_key": "REF_UNBOOKED_FEE_004670",
+    "variance_amount": 22025.72,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "52"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004671",
+    "reference_key": "REF_UNBOOKED_FEE_004671",
+    "variance_amount": 37907.6,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "74"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004672",
+    "reference_key": "REF_UNBOOKED_FEE_004672",
+    "variance_amount": 19285.56,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "48"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004673",
+    "reference_key": "REF_UNBOOKED_FEE_004673",
+    "variance_amount": 31498.9,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "81"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004674",
+    "reference_key": "REF_UNBOOKED_FEE_004674",
+    "variance_amount": 36134.96,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "7"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004675",
+    "reference_key": "REF_UNBOOKED_FEE_004675",
+    "variance_amount": 36986.69,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004676",
+    "reference_key": "REF_UNBOOKED_FEE_004676",
+    "variance_amount": 1574.26,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "10"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004677",
+    "reference_key": "REF_UNBOOKED_FEE_004677",
+    "variance_amount": 19688.63,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "26"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004678",
+    "reference_key": "REF_UNBOOKED_FEE_004678",
+    "variance_amount": 36925.52,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "75"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004679",
+    "reference_key": "REF_UNBOOKED_FEE_004679",
+    "variance_amount": 12118.83,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "16"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004680",
+    "reference_key": "REF_UNBOOKED_FEE_004680",
+    "variance_amount": 43745.5,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "40"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004681",
+    "reference_key": "REF_UNBOOKED_FEE_004681",
+    "variance_amount": 40943.2,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "80"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004682",
+    "reference_key": "REF_UNBOOKED_FEE_004682",
+    "variance_amount": 12400.55,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "81"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004683",
+    "reference_key": "REF_UNBOOKED_FEE_004683",
+    "variance_amount": 36423.0,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "51"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004684",
+    "reference_key": "REF_UNBOOKED_FEE_004684",
+    "variance_amount": 43983.99,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "27"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004685",
+    "reference_key": "REF_UNBOOKED_FEE_004685",
+    "variance_amount": 17287.71,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "60"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004686",
+    "reference_key": "REF_UNBOOKED_FEE_004686",
+    "variance_amount": 44928.19,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "41"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004687",
+    "reference_key": "REF_UNBOOKED_FEE_004687",
+    "variance_amount": 37802.73,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "6"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004688",
+    "reference_key": "REF_UNBOOKED_FEE_004688",
+    "variance_amount": 32790.44,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "55"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004689",
+    "reference_key": "REF_UNBOOKED_FEE_004689",
+    "variance_amount": 530.71,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004690",
+    "reference_key": "REF_UNBOOKED_FEE_004690",
+    "variance_amount": 16646.3,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "3"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004691",
+    "reference_key": "REF_UNBOOKED_FEE_004691",
+    "variance_amount": 17469.32,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "48"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004692",
+    "reference_key": "REF_UNBOOKED_FEE_004692",
+    "variance_amount": 12730.61,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "62"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004693",
+    "reference_key": "REF_UNBOOKED_FEE_004693",
+    "variance_amount": 20732.76,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "22"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004694",
+    "reference_key": "REF_UNBOOKED_FEE_004694",
+    "variance_amount": 21256.58,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "5"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004695",
+    "reference_key": "REF_UNBOOKED_FEE_004695",
+    "variance_amount": 26191.97,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "22"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004696",
+    "reference_key": "REF_UNBOOKED_FEE_004696",
+    "variance_amount": 30632.98,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "81"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004697",
+    "reference_key": "REF_UNBOOKED_FEE_004697",
+    "variance_amount": 11268.52,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "61"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004698",
+    "reference_key": "REF_UNBOOKED_FEE_004698",
+    "variance_amount": 37554.34,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "21"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004699",
+    "reference_key": "REF_UNBOOKED_FEE_004699",
+    "variance_amount": 39317.92,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "5"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004700",
+    "reference_key": "REF_UNBOOKED_FEE_004700",
+    "variance_amount": 43207.16,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "56"
+  },
+  {
+    "break_type": "MISSING_INTERNAL",
+    "internal_id": null,
+    "external_id": "EXT_STMT_004701",
+    "reference_key": "REF_UNBOOKED_FEE_004701",
+    "variance_amount": 28704.72,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "83"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004702",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004702",
+    "variance_amount": 1623228.63,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "30"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004703",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004703",
+    "variance_amount": 3348137.44,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "99"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004704",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004704",
+    "variance_amount": -1384381.44,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "69"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004705",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004705",
+    "variance_amount": 1348015.98,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "54"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004706",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004706",
+    "variance_amount": 949589.21,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "87"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004707",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004707",
+    "variance_amount": 1389944.58,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "81"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004708",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004708",
+    "variance_amount": 1873539.8,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "108"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004709",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004709",
+    "variance_amount": 2585844.21,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "50"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004710",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004710",
+    "variance_amount": -2447684.51,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "24"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004711",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004711",
+    "variance_amount": 1723256.63,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "52"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004712",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004712",
+    "variance_amount": -3200786.37,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "73"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004713",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004713",
+    "variance_amount": -2973972.11,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "80"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004714",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004714",
+    "variance_amount": 2915539.48,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "25"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004715",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004715",
+    "variance_amount": 3033756.87,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "67"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004716",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004716",
+    "variance_amount": 3475984.68,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "48"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004717",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004717",
+    "variance_amount": -1562593.71,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "41"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004718",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004718",
+    "variance_amount": 2942918.6,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "90"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004719",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004719",
+    "variance_amount": -2927684.64,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "43"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004720",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004720",
+    "variance_amount": -1859781.67,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "32"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004721",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004721",
+    "variance_amount": -518106.12,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004722",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004722",
+    "variance_amount": 799800.49,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "51"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004723",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004723",
+    "variance_amount": -1397791.8,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "29"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004724",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004724",
+    "variance_amount": 3364453.82,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "42"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004725",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004725",
+    "variance_amount": 2295422.89,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "71"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004726",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004726",
+    "variance_amount": -2446847.49,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "58"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004727",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004727",
+    "variance_amount": -2027280.07,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "83"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004728",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004728",
+    "variance_amount": -1020611.44,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "23"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004729",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004729",
+    "variance_amount": 1557000.7,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "52"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004730",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004730",
+    "variance_amount": -467026.44,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "69"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004731",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004731",
+    "variance_amount": 1379057.79,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "62"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004732",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004732",
+    "variance_amount": -127049.77,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "53"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004733",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004733",
+    "variance_amount": -1789794.62,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "46"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004734",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004734",
+    "variance_amount": 2052298.27,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "44"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004735",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004735",
+    "variance_amount": -2328971.74,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "61"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004736",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004736",
+    "variance_amount": -2797753.7,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "74"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004737",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004737",
+    "variance_amount": 3244908.44,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "51"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004738",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004738",
+    "variance_amount": 921679.84,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "106"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004739",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004739",
+    "variance_amount": 3470963.15,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "23"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004740",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004740",
+    "variance_amount": -2713984.64,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "31"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004741",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004741",
+    "variance_amount": 1407375.78,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "45"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004742",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004742",
+    "variance_amount": -1593274.14,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "95"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004743",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004743",
+    "variance_amount": -848573.0,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "107"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004744",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004744",
+    "variance_amount": -3019192.05,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "23"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004745",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004745",
+    "variance_amount": -2423983.59,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004746",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004746",
+    "variance_amount": -1057298.7,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "100"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004747",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004747",
+    "variance_amount": 1959044.81,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "60"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004748",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004748",
+    "variance_amount": 1229483.07,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "61"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004749",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004749",
+    "variance_amount": -3165855.3,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "104"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004750",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004750",
+    "variance_amount": 3355687.33,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "47"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004751",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004751",
+    "variance_amount": 2037525.7,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "97"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004752",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004752",
+    "variance_amount": 2130669.74,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "76"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004753",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004753",
+    "variance_amount": 953809.89,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "60"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004754",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004754",
+    "variance_amount": 701369.06,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "48"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004755",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004755",
+    "variance_amount": 2794251.48,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "63"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004756",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004756",
+    "variance_amount": 1343953.29,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "96"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004757",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004757",
+    "variance_amount": 2304288.34,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "94"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004758",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004758",
+    "variance_amount": 1616836.26,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "68"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004759",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004759",
+    "variance_amount": -273044.87,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "40"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004760",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004760",
+    "variance_amount": 2628969.95,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "90"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004761",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004761",
+    "variance_amount": 2613927.14,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "89"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004762",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004762",
+    "variance_amount": 2222585.45,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "29"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004763",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004763",
+    "variance_amount": -2485749.23,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "62"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004764",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004764",
+    "variance_amount": 1978808.71,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "76"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004765",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004765",
+    "variance_amount": 1948129.73,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "49"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004766",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004766",
+    "variance_amount": 1001436.12,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "36"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004767",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004767",
+    "variance_amount": -1994175.28,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "94"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004768",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004768",
+    "variance_amount": 1965132.17,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "43"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004769",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004769",
+    "variance_amount": -1667363.87,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "61"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004770",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004770",
+    "variance_amount": 2949033.21,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "22"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004771",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004771",
+    "variance_amount": 1184141.77,
+    "account_id": "ACC_CITI_USD_02",
+    "age_days": "61"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004772",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004772",
+    "variance_amount": -1211384.02,
+    "account_id": "ACC_BNY_EUR_01",
+    "age_days": "66"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004773",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004773",
+    "variance_amount": 2609124.82,
+    "account_id": "ACC_BARC_GBP_01",
+    "age_days": "29"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004774",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004774",
+    "variance_amount": 2792921.79,
+    "account_id": "ACC_HDFC_INR_01",
+    "age_days": "44"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004775",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004775",
+    "variance_amount": 3141817.84,
+    "account_id": "ACC_MUFG_JPY_01",
+    "age_days": "20"
+  },
+  {
+    "break_type": "MISSING_EXTERNAL",
+    "internal_id": "INT_TXN_004776",
+    "external_id": null,
+    "reference_key": "REF_PENDING_SETTLE_004776",
+    "variance_amount": -746689.13,
+    "account_id": "ACC_JPM_USD_01",
+    "age_days": "38"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004777",
+    "internal_id_duplicate": "INT_TXN_014777",
+    "external_id": "EXT_STMT_004777",
+    "reference_key": "REF_DUP_004777",
+    "duplicate_amount": 703831.78,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004778",
+    "internal_id_duplicate": "INT_TXN_014778",
+    "external_id": "EXT_STMT_004778",
+    "reference_key": "REF_DUP_004778",
+    "duplicate_amount": 415601.53,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004779",
+    "internal_id_duplicate": "INT_TXN_014779",
+    "external_id": "EXT_STMT_004779",
+    "reference_key": "REF_DUP_004779",
+    "duplicate_amount": 688889.34,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004780",
+    "internal_id_duplicate": "INT_TXN_014780",
+    "external_id": "EXT_STMT_004780",
+    "reference_key": "REF_DUP_004780",
+    "duplicate_amount": 552434.71,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004781",
+    "internal_id_duplicate": "INT_TXN_014781",
+    "external_id": "EXT_STMT_004781",
+    "reference_key": "REF_DUP_004781",
+    "duplicate_amount": 664632.92,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004782",
+    "internal_id_duplicate": "INT_TXN_014782",
+    "external_id": "EXT_STMT_004782",
+    "reference_key": "REF_DUP_004782",
+    "duplicate_amount": 574219.38,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004783",
+    "internal_id_duplicate": "INT_TXN_014783",
+    "external_id": "EXT_STMT_004783",
+    "reference_key": "REF_DUP_004783",
+    "duplicate_amount": 725089.15,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004784",
+    "internal_id_duplicate": "INT_TXN_014784",
+    "external_id": "EXT_STMT_004784",
+    "reference_key": "REF_DUP_004784",
+    "duplicate_amount": 186708.1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004785",
+    "internal_id_duplicate": "INT_TXN_014785",
+    "external_id": "EXT_STMT_004785",
+    "reference_key": "REF_DUP_004785",
+    "duplicate_amount": 600627.08,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004786",
+    "internal_id_duplicate": "INT_TXN_014786",
+    "external_id": "EXT_STMT_004786",
+    "reference_key": "REF_DUP_004786",
+    "duplicate_amount": 87798.31,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004787",
+    "internal_id_duplicate": "INT_TXN_014787",
+    "external_id": "EXT_STMT_004787",
+    "reference_key": "REF_DUP_004787",
+    "duplicate_amount": 219269.57,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004788",
+    "internal_id_duplicate": "INT_TXN_014788",
+    "external_id": "EXT_STMT_004788",
+    "reference_key": "REF_DUP_004788",
+    "duplicate_amount": 257770.47,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004789",
+    "internal_id_duplicate": "INT_TXN_014789",
+    "external_id": "EXT_STMT_004789",
+    "reference_key": "REF_DUP_004789",
+    "duplicate_amount": 661312.74,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004790",
+    "internal_id_duplicate": "INT_TXN_014790",
+    "external_id": "EXT_STMT_004790",
+    "reference_key": "REF_DUP_004790",
+    "duplicate_amount": 557815.03,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004791",
+    "internal_id_duplicate": "INT_TXN_014791",
+    "external_id": "EXT_STMT_004791",
+    "reference_key": "REF_DUP_004791",
+    "duplicate_amount": 34838.31,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004792",
+    "internal_id_duplicate": "INT_TXN_014792",
+    "external_id": "EXT_STMT_004792",
+    "reference_key": "REF_DUP_004792",
+    "duplicate_amount": 255419.96,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004793",
+    "internal_id_duplicate": "INT_TXN_014793",
+    "external_id": "EXT_STMT_004793",
+    "reference_key": "REF_DUP_004793",
+    "duplicate_amount": 642645.92,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004794",
+    "internal_id_duplicate": "INT_TXN_014794",
+    "external_id": "EXT_STMT_004794",
+    "reference_key": "REF_DUP_004794",
+    "duplicate_amount": 331922.12,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004795",
+    "internal_id_duplicate": "INT_TXN_014795",
+    "external_id": "EXT_STMT_004795",
+    "reference_key": "REF_DUP_004795",
+    "duplicate_amount": 730468.95,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004796",
+    "internal_id_duplicate": "INT_TXN_014796",
+    "external_id": "EXT_STMT_004796",
+    "reference_key": "REF_DUP_004796",
+    "duplicate_amount": 261146.57,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004797",
+    "internal_id_duplicate": "INT_TXN_014797",
+    "external_id": "EXT_STMT_004797",
+    "reference_key": "REF_DUP_004797",
+    "duplicate_amount": 586825.1,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004798",
+    "internal_id_duplicate": "INT_TXN_014798",
+    "external_id": "EXT_STMT_004798",
+    "reference_key": "REF_DUP_004798",
+    "duplicate_amount": 692697.69,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004799",
+    "internal_id_duplicate": "INT_TXN_014799",
+    "external_id": "EXT_STMT_004799",
+    "reference_key": "REF_DUP_004799",
+    "duplicate_amount": 183387.05,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004800",
+    "internal_id_duplicate": "INT_TXN_014800",
+    "external_id": "EXT_STMT_004800",
+    "reference_key": "REF_DUP_004800",
+    "duplicate_amount": 171234.13,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004801",
+    "internal_id_duplicate": "INT_TXN_014801",
+    "external_id": "EXT_STMT_004801",
+    "reference_key": "REF_DUP_004801",
+    "duplicate_amount": 167901.07,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004802",
+    "internal_id_duplicate": "INT_TXN_014802",
+    "external_id": "EXT_STMT_004802",
+    "reference_key": "REF_DUP_004802",
+    "duplicate_amount": 710081.93,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004803",
+    "internal_id_duplicate": "INT_TXN_014803",
+    "external_id": "EXT_STMT_004803",
+    "reference_key": "REF_DUP_004803",
+    "duplicate_amount": 449454.85,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004804",
+    "internal_id_duplicate": "INT_TXN_014804",
+    "external_id": "EXT_STMT_004804",
+    "reference_key": "REF_DUP_004804",
+    "duplicate_amount": 32056.19,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004805",
+    "internal_id_duplicate": "INT_TXN_014805",
+    "external_id": "EXT_STMT_004805",
+    "reference_key": "REF_DUP_004805",
+    "duplicate_amount": 66046.02,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "DUPLICATE_BOOKING",
+    "internal_id_primary": "INT_TXN_004806",
+    "internal_id_duplicate": "INT_TXN_014806",
+    "external_id": "EXT_STMT_004806",
+    "reference_key": "REF_DUP_004806",
+    "duplicate_amount": 619240.58,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004807",
+    "external_id": "EXT_STMT_004807",
+    "reference_key": "REF_FX_DIFF_004807",
+    "internal_amount": 313166.91,
+    "external_amount": -314621.31999999995,
+    "variance_amount": 1454.41,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004808",
+    "external_id": "EXT_STMT_004808",
+    "reference_key": "REF_FX_DIFF_004808",
+    "internal_amount": 625558.89,
+    "external_amount": -628719.62,
+    "variance_amount": 3160.73,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004809",
+    "external_id": "EXT_STMT_004809",
+    "reference_key": "REF_FX_DIFF_004809",
+    "internal_amount": 103870.19,
+    "external_amount": -104415.3,
+    "variance_amount": 545.11,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004810",
+    "external_id": "EXT_STMT_004810",
+    "reference_key": "REF_FX_DIFF_004810",
+    "internal_amount": 311715.38,
+    "external_amount": -313754.56,
+    "variance_amount": 2039.18,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004811",
+    "external_id": "EXT_STMT_004811",
+    "reference_key": "REF_FX_DIFF_004811",
+    "internal_amount": 113637.54,
+    "external_amount": -114494.37,
+    "variance_amount": 856.83,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004812",
+    "external_id": "EXT_STMT_004812",
+    "reference_key": "REF_FX_DIFF_004812",
+    "internal_amount": 102215.34,
+    "external_amount": -102755.97,
+    "variance_amount": 540.63,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004813",
+    "external_id": "EXT_STMT_004813",
+    "reference_key": "REF_FX_DIFF_004813",
+    "internal_amount": 472439.75,
+    "external_amount": -475845.77,
+    "variance_amount": 3406.02,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004814",
+    "external_id": "EXT_STMT_004814",
+    "reference_key": "REF_FX_DIFF_004814",
+    "internal_amount": 650228.92,
+    "external_amount": -652837.9800000001,
+    "variance_amount": 2609.06,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004815",
+    "external_id": "EXT_STMT_004815",
+    "reference_key": "REF_FX_DIFF_004815",
+    "internal_amount": 169358.2,
+    "external_amount": -170452.53,
+    "variance_amount": 1094.33,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004816",
+    "external_id": "EXT_STMT_004816",
+    "reference_key": "REF_FX_DIFF_004816",
+    "internal_amount": 849095.86,
+    "external_amount": -855229.23,
+    "variance_amount": 6133.37,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004817",
+    "external_id": "EXT_STMT_004817",
+    "reference_key": "REF_FX_DIFF_004817",
+    "internal_amount": 667931.75,
+    "external_amount": -671733.49,
+    "variance_amount": 3801.74,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004818",
+    "external_id": "EXT_STMT_004818",
+    "reference_key": "REF_FX_DIFF_004818",
+    "internal_amount": 821137.72,
+    "external_amount": -827224.1,
+    "variance_amount": 6086.38,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004819",
+    "external_id": "EXT_STMT_004819",
+    "reference_key": "REF_FX_DIFF_004819",
+    "internal_amount": 996256.81,
+    "external_amount": -1001255.56,
+    "variance_amount": 4998.75,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004820",
+    "external_id": "EXT_STMT_004820",
+    "reference_key": "REF_FX_DIFF_004820",
+    "internal_amount": 719261.03,
+    "external_amount": -722045.0800000001,
+    "variance_amount": 2784.05,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004821",
+    "external_id": "EXT_STMT_004821",
+    "reference_key": "REF_FX_DIFF_004821",
+    "internal_amount": 672893.74,
+    "external_amount": -676352.71,
+    "variance_amount": 3458.97,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004822",
+    "external_id": "EXT_STMT_004822",
+    "reference_key": "REF_FX_DIFF_004822",
+    "internal_amount": 262124.19,
+    "external_amount": -263886.63,
+    "variance_amount": 1762.44,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004823",
+    "external_id": "EXT_STMT_004823",
+    "reference_key": "REF_FX_DIFF_004823",
+    "internal_amount": 728146.89,
+    "external_amount": -732269.26,
+    "variance_amount": 4122.37,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004824",
+    "external_id": "EXT_STMT_004824",
+    "reference_key": "REF_FX_DIFF_004824",
+    "internal_amount": 601178.31,
+    "external_amount": -603282.8400000001,
+    "variance_amount": 2104.53,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004825",
+    "external_id": "EXT_STMT_004825",
+    "reference_key": "REF_FX_DIFF_004825",
+    "internal_amount": 405434.82,
+    "external_amount": -407405.96,
+    "variance_amount": 1971.14,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004826",
+    "external_id": "EXT_STMT_004826",
+    "reference_key": "REF_FX_DIFF_004826",
+    "internal_amount": 474005.87,
+    "external_amount": -476846.27999999997,
+    "variance_amount": 2840.41,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004827",
+    "external_id": "EXT_STMT_004827",
+    "reference_key": "REF_FX_DIFF_004827",
+    "internal_amount": 887301.09,
+    "external_amount": -891851.88,
+    "variance_amount": 4550.79,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004828",
+    "external_id": "EXT_STMT_004828",
+    "reference_key": "REF_FX_DIFF_004828",
+    "internal_amount": 222815.18,
+    "external_amount": -223890.09,
+    "variance_amount": 1074.91,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004829",
+    "external_id": "EXT_STMT_004829",
+    "reference_key": "REF_FX_DIFF_004829",
+    "internal_amount": 185254.52,
+    "external_amount": -186329.86,
+    "variance_amount": 1075.34,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004830",
+    "external_id": "EXT_STMT_004830",
+    "reference_key": "REF_FX_DIFF_004830",
+    "internal_amount": 691256.65,
+    "external_amount": -695494.31,
+    "variance_amount": 4237.66,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004831",
+    "external_id": "EXT_STMT_004831",
+    "reference_key": "REF_FX_DIFF_004831",
+    "internal_amount": 350342.77,
+    "external_amount": -353024.83,
+    "variance_amount": 2682.06,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004832",
+    "external_id": "EXT_STMT_004832",
+    "reference_key": "REF_FX_DIFF_004832",
+    "internal_amount": 340301.85,
+    "external_amount": -343003.33999999997,
+    "variance_amount": 2701.49,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004833",
+    "external_id": "EXT_STMT_004833",
+    "reference_key": "REF_FX_DIFF_004833",
+    "internal_amount": 480811.54,
+    "external_amount": -483147.07999999996,
+    "variance_amount": 2335.54,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004834",
+    "external_id": "EXT_STMT_004834",
+    "reference_key": "REF_FX_DIFF_004834",
+    "internal_amount": 260465.48,
+    "external_amount": -262300.71,
+    "variance_amount": 1835.23,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004835",
+    "external_id": "EXT_STMT_004835",
+    "reference_key": "REF_FX_DIFF_004835",
+    "internal_amount": 534425.59,
+    "external_amount": -538580.4099999999,
+    "variance_amount": 4154.82,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004836",
+    "external_id": "EXT_STMT_004836",
+    "reference_key": "REF_FX_DIFF_004836",
+    "internal_amount": 654349.1,
+    "external_amount": -658667.75,
+    "variance_amount": 4318.65,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004837",
+    "external_id": "EXT_STMT_004837",
+    "reference_key": "REF_FX_DIFF_004837",
+    "internal_amount": 659064.81,
+    "external_amount": -662788.1200000001,
+    "variance_amount": 3723.31,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004838",
+    "external_id": "EXT_STMT_004838",
+    "reference_key": "REF_FX_DIFF_004838",
+    "internal_amount": 720594.63,
+    "external_amount": -725866.73,
+    "variance_amount": 5272.1,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004839",
+    "external_id": "EXT_STMT_004839",
+    "reference_key": "REF_FX_DIFF_004839",
+    "internal_amount": 402710.18,
+    "external_amount": -404843.85,
+    "variance_amount": 2133.67,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004840",
+    "external_id": "EXT_STMT_004840",
+    "reference_key": "REF_FX_DIFF_004840",
+    "internal_amount": 382794.36,
+    "external_amount": -384284.93,
+    "variance_amount": 1490.57,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004841",
+    "external_id": "EXT_STMT_004841",
+    "reference_key": "REF_FX_DIFF_004841",
+    "internal_amount": 969551.88,
+    "external_amount": -973404.53,
+    "variance_amount": 3852.65,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004842",
+    "external_id": "EXT_STMT_004842",
+    "reference_key": "REF_FX_DIFF_004842",
+    "internal_amount": 656817.49,
+    "external_amount": -659042.03,
+    "variance_amount": 2224.54,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004843",
+    "external_id": "EXT_STMT_004843",
+    "reference_key": "REF_FX_DIFF_004843",
+    "internal_amount": 130642.89,
+    "external_amount": -131076.63,
+    "variance_amount": 433.74,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004844",
+    "external_id": "EXT_STMT_004844",
+    "reference_key": "REF_FX_DIFF_004844",
+    "internal_amount": 486277.18,
+    "external_amount": -489752.26,
+    "variance_amount": 3475.08,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004845",
+    "external_id": "EXT_STMT_004845",
+    "reference_key": "REF_FX_DIFF_004845",
+    "internal_amount": 407774.7,
+    "external_amount": -409869.71,
+    "variance_amount": 2095.01,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004846",
+    "external_id": "EXT_STMT_004846",
+    "reference_key": "REF_FX_DIFF_004846",
+    "internal_amount": 371929.98,
+    "external_amount": -373850.13999999996,
+    "variance_amount": 1920.16,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004847",
+    "external_id": "EXT_STMT_004847",
+    "reference_key": "REF_FX_DIFF_004847",
+    "internal_amount": 447680.52,
+    "external_amount": -449788.83,
+    "variance_amount": 2108.31,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004848",
+    "external_id": "EXT_STMT_004848",
+    "reference_key": "REF_FX_DIFF_004848",
+    "internal_amount": 110005.94,
+    "external_amount": -110823.43000000001,
+    "variance_amount": 817.49,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004849",
+    "external_id": "EXT_STMT_004849",
+    "reference_key": "REF_FX_DIFF_004849",
+    "internal_amount": 979612.12,
+    "external_amount": -986775.51,
+    "variance_amount": 7163.39,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004850",
+    "external_id": "EXT_STMT_004850",
+    "reference_key": "REF_FX_DIFF_004850",
+    "internal_amount": 775796.99,
+    "external_amount": -780347.4299999999,
+    "variance_amount": 4550.44,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "FX_MISMATCH",
+    "internal_id": "INT_TXN_004851",
+    "external_id": "EXT_STMT_004851",
+    "reference_key": "REF_FX_DIFF_004851",
+    "internal_amount": 184757.42,
+    "external_amount": -186173.46000000002,
+    "variance_amount": 1416.04,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004852",
+    "external_id": "EXT_STMT_004852",
+    "reference_key": "REF_ROUND_004852",
+    "variance_amount": 0.07,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004853",
+    "external_id": "EXT_STMT_004853",
+    "reference_key": "REF_ROUND_004853",
+    "variance_amount": 0.08,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004854",
+    "external_id": "EXT_STMT_004854",
+    "reference_key": "REF_ROUND_004854",
+    "variance_amount": 0.04,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004855",
+    "external_id": "EXT_STMT_004855",
+    "reference_key": "REF_ROUND_004855",
+    "variance_amount": 0.02,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004856",
+    "external_id": "EXT_STMT_004856",
+    "reference_key": "REF_ROUND_004856",
+    "variance_amount": 0.06,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004857",
+    "external_id": "EXT_STMT_004857",
+    "reference_key": "REF_ROUND_004857",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004858",
+    "external_id": "EXT_STMT_004858",
+    "reference_key": "REF_ROUND_004858",
+    "variance_amount": 0.08,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004859",
+    "external_id": "EXT_STMT_004859",
+    "reference_key": "REF_ROUND_004859",
+    "variance_amount": 0.08,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004860",
+    "external_id": "EXT_STMT_004860",
+    "reference_key": "REF_ROUND_004860",
+    "variance_amount": 0.04,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004861",
+    "external_id": "EXT_STMT_004861",
+    "reference_key": "REF_ROUND_004861",
+    "variance_amount": 0.02,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004862",
+    "external_id": "EXT_STMT_004862",
+    "reference_key": "REF_ROUND_004862",
+    "variance_amount": 0.04,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004863",
+    "external_id": "EXT_STMT_004863",
+    "reference_key": "REF_ROUND_004863",
+    "variance_amount": 0.06,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004864",
+    "external_id": "EXT_STMT_004864",
+    "reference_key": "REF_ROUND_004864",
+    "variance_amount": 0.04,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004865",
+    "external_id": "EXT_STMT_004865",
+    "reference_key": "REF_ROUND_004865",
+    "variance_amount": 0.04,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004866",
+    "external_id": "EXT_STMT_004866",
+    "reference_key": "REF_ROUND_004866",
+    "variance_amount": 0.02,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004867",
+    "external_id": "EXT_STMT_004867",
+    "reference_key": "REF_ROUND_004867",
+    "variance_amount": 0.06,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004868",
+    "external_id": "EXT_STMT_004868",
+    "reference_key": "REF_ROUND_004868",
+    "variance_amount": 0.04,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004869",
+    "external_id": "EXT_STMT_004869",
+    "reference_key": "REF_ROUND_004869",
+    "variance_amount": 0.02,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004870",
+    "external_id": "EXT_STMT_004870",
+    "reference_key": "REF_ROUND_004870",
+    "variance_amount": 0.04,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004871",
+    "external_id": "EXT_STMT_004871",
+    "reference_key": "REF_ROUND_004871",
+    "variance_amount": 0.08,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004872",
+    "external_id": "EXT_STMT_004872",
+    "reference_key": "REF_ROUND_004872",
+    "variance_amount": 0.03,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004873",
+    "external_id": "EXT_STMT_004873",
+    "reference_key": "REF_ROUND_004873",
+    "variance_amount": 0.02,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004874",
+    "external_id": "EXT_STMT_004874",
+    "reference_key": "REF_ROUND_004874",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004875",
+    "external_id": "EXT_STMT_004875",
+    "reference_key": "REF_ROUND_004875",
+    "variance_amount": 0.03,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004876",
+    "external_id": "EXT_STMT_004876",
+    "reference_key": "REF_ROUND_004876",
+    "variance_amount": 0.07,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004877",
+    "external_id": "EXT_STMT_004877",
+    "reference_key": "REF_ROUND_004877",
+    "variance_amount": 0.08,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004878",
+    "external_id": "EXT_STMT_004878",
+    "reference_key": "REF_ROUND_004878",
+    "variance_amount": 0.06,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004879",
+    "external_id": "EXT_STMT_004879",
+    "reference_key": "REF_ROUND_004879",
+    "variance_amount": 0.07,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004880",
+    "external_id": "EXT_STMT_004880",
+    "reference_key": "REF_ROUND_004880",
+    "variance_amount": 0.02,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004881",
+    "external_id": "EXT_STMT_004881",
+    "reference_key": "REF_ROUND_004881",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004882",
+    "external_id": "EXT_STMT_004882",
+    "reference_key": "REF_ROUND_004882",
+    "variance_amount": 0.06,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004883",
+    "external_id": "EXT_STMT_004883",
+    "reference_key": "REF_ROUND_004883",
+    "variance_amount": 0.07,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004884",
+    "external_id": "EXT_STMT_004884",
+    "reference_key": "REF_ROUND_004884",
+    "variance_amount": 0.03,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004885",
+    "external_id": "EXT_STMT_004885",
+    "reference_key": "REF_ROUND_004885",
+    "variance_amount": 0.06,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004886",
+    "external_id": "EXT_STMT_004886",
+    "reference_key": "REF_ROUND_004886",
+    "variance_amount": 0.08,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004887",
+    "external_id": "EXT_STMT_004887",
+    "reference_key": "REF_ROUND_004887",
+    "variance_amount": 0.04,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004888",
+    "external_id": "EXT_STMT_004888",
+    "reference_key": "REF_ROUND_004888",
+    "variance_amount": 0.02,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004889",
+    "external_id": "EXT_STMT_004889",
+    "reference_key": "REF_ROUND_004889",
+    "variance_amount": 0.07,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004890",
+    "external_id": "EXT_STMT_004890",
+    "reference_key": "REF_ROUND_004890",
+    "variance_amount": 0.07,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004891",
+    "external_id": "EXT_STMT_004891",
+    "reference_key": "REF_ROUND_004891",
+    "variance_amount": 0.08,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004892",
+    "external_id": "EXT_STMT_004892",
+    "reference_key": "REF_ROUND_004892",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004893",
+    "external_id": "EXT_STMT_004893",
+    "reference_key": "REF_ROUND_004893",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004894",
+    "external_id": "EXT_STMT_004894",
+    "reference_key": "REF_ROUND_004894",
+    "variance_amount": 0.07,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004895",
+    "external_id": "EXT_STMT_004895",
+    "reference_key": "REF_ROUND_004895",
+    "variance_amount": 0.06,
+    "account_id": "ACC_MUFG_JPY_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004896",
+    "external_id": "EXT_STMT_004896",
+    "reference_key": "REF_ROUND_004896",
+    "variance_amount": 0.03,
+    "account_id": "ACC_JPM_USD_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004897",
+    "external_id": "EXT_STMT_004897",
+    "reference_key": "REF_ROUND_004897",
+    "variance_amount": 0.04,
+    "account_id": "ACC_CITI_USD_02"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004898",
+    "external_id": "EXT_STMT_004898",
+    "reference_key": "REF_ROUND_004898",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BNY_EUR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004899",
+    "external_id": "EXT_STMT_004899",
+    "reference_key": "REF_ROUND_004899",
+    "variance_amount": 0.07,
+    "account_id": "ACC_BARC_GBP_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004900",
+    "external_id": "EXT_STMT_004900",
+    "reference_key": "REF_ROUND_004900",
+    "variance_amount": 0.08,
+    "account_id": "ACC_HDFC_INR_01"
+  },
+  {
+    "break_type": "ROUNDING_VARIANCE",
+    "internal_id": "INT_TXN_004901",
+    "external_id": "EXT_STMT_004901",
+    "reference_key": "REF_ROUND_004901",
+    "variance_amount": 0.06,
+    "account_id": "ACC_MUFG_JPY_01"
+  }
+]
